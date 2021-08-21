@@ -1,0 +1,45 @@
+.service-section{
+    color: #00c7ef;
+    border: 3px solid #00c7ef;
+    text-align: center;
+}
+.service-1{
+    background: #7d4b4b;
+    color: white;
+    text-align: left;
+    display: inline;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 70px;
+    padding-bottom: 70px;
+    margin-left: 300px;
+    border-radius: 0 45px 45px 0;
+    font-weight: lighter;
+border: 1px solid white;
+}
+.service-seo{
+    text-align: center;
+    color:#f59fa0 ;
+    background-color: #4f7d4b;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 70px;
+    padding-bottom:70px;
+    margin-left: 50%;
+    margin-right: 300px;
+    border-radius: 45px 0 0 45px ;
+    font-weight: lighter;
+}
+.h-3{
+    background: #340e9d;
+   color: white;
+   text-align: left;
+   display: inline;
+   padding-left: 40px;
+   padding-right: 40px;
+   padding-top: 70px;
+   padding-bottom: 70px;
+   margin-left: 300px;
+   border-radius: 0 45px 45px 0;
+   font-weight: lighter;
+text-

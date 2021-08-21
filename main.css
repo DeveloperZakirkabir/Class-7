@@ -1,0 +1,69 @@
+*{
+    padding: 0 ;
+    margin: 0;
+}
+body{
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.service-section{
+    color: #00c7ef;
+    border: 3px solid #00c7ef;
+    text-align: center;
+    height: auto;
+
+}
+
+.contact{
+    color: #00c7ef;
+    border: 3px solid #00c7ef;
+    text-align: center;
+    height: auto;
+    
+}
+
+.h-1{
+    
+    background: #7d4b4b;
+    color: white;
+    text-align: left;
+    display: inline;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    margin-left: 60px;
+    border-radius: 0 45px 45px 0;
+    font-weight: lighter;
+}
+
+.h-3{
+     background: #340e9d;
+    color: white;
+    text-align: left;
+    display: inline;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    margin-left: 60px;
+    border-radius: 0 45px 45px 0;
+    font-weight: lighter;
+ 
+} 
+
+.service-seo{
+    text-align: right;
+    color:#f59fa0 ;
+    background-color: #4f7d4b;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    margin-left: 70%;
+    margin-right: 60px;
+    border-radius: 45px 0 0 45px ;
+    font-weight: lighter;
+}
